@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\bin\Debug\Lab 12 Array.exe.config
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\bin\Debug\Lab 12 Array.exe
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\bin\Debug\Lab 12 Array.pdb
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\obj\Debug\Lab 12 Array.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\obj\Debug\Lab 12 Array.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\obj\Debug\Lab 12 Array.exe
+C:\Users\Chris\source\repos\Lab 12 Array\Lab 12 Array\obj\Debug\Lab 12 Array.pdb
