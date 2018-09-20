@@ -1,0 +1,8 @@
+package me.chris;
+
+public class Main {
+	public void main(String[] args) {
+		PersonArray pa = new PersonArray(5);
+		
+	}
+}

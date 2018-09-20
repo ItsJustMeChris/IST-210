@@ -1,0 +1,11 @@
+package me.chris;
+
+public class PersonArray {
+	private Person[] people;
+	private int numPeople;
+	
+	public PersonArray(int personCount) {
+		this.people = new Person[personCount];
+		this.numPeople = personCount;
+	}
+}

@@ -1,0 +1,7 @@
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\bin\Debug\PersonAPp.exe.config
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\bin\Debug\PersonAPp.exe
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\bin\Debug\PersonAPp.pdb
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\obj\Debug\PersonAPp.csprojAssemblyReference.cache
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\obj\Debug\PersonAPp.csproj.CoreCompileInputs.cache
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\obj\Debug\PersonAPp.exe
+C:\Users\IT-Lab\source\repos\PersonAPp\PersonAPp\obj\Debug\PersonAPp.pdb

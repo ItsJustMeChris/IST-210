@@ -1,0 +1,15 @@
+package me.chris;
+
+public class Person {
+	private String lastName;
+	private String firstName;
+	private int age;
+	
+	public Person(String firstName, String lastName, int age) {
+		this.lastName = lastName;
+		this.firstName = firstName;
+		this.age = age;
+	}
+	
+	
+}
